@@ -1,7 +1,9 @@
 bin
 lib
+.idea
 derby*
 target
+*.iml
 */src/META-INF
 */src/main/webapp/META-INF
 */src/main/java/META-INF
